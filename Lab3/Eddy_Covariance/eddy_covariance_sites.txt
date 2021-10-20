@@ -1,0 +1,7 @@
+site_name,lat,lon,crop type,years
+US-MSR, 47.4758, -111.7207, winter wheat, 2016
+US-ARM, 36.6058, -97.4888, winter wheat corn soy alfalfa, 2003-2021
+US-Twt, 38.1087, -121.6531, rice, 2009-2017
+US-HRC, 34.5888, -91.7517, rice, 2015-2017
+US-HRA, 34.5852, -91.7517, rice, 2015-2017
+CA-ER1, 43.6405, -80.4123, typically corn, 2015-2021
